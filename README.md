@@ -11,6 +11,21 @@
 * And get directed to the website that they wish to purchase from
   
 Snapshots of early prototype of this website:
+
+## page 1
+![page 1](/images/page1.jpg)
+
+
+## page 2
+
+
+## page 3
+
+
+## page 4
+
+
+## page 5
   
   
   
