@@ -13,7 +13,7 @@
 Snapshots of early prototype of this website:
 
 ## page 1
-![page 1](images/page1.jpg)
+![page 1](Images/page1.jpg)
 
 
 ## page 2
