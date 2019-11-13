@@ -1,7 +1,7 @@
 # Price-Comparison-Website
 
 
-## A website that allows users to search for Martial Arts products such as Jiu Jitsu Gis, rash guards, etc. 
+## A website that allows users to search for Martial Arts products such as Jiu Jitsu Gis, rash guards, and other products. 
 
 ### They will be able to:
 * Search for a particular product
