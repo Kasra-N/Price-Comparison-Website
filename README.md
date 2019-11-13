@@ -1,5 +1,5 @@
 # Price-Comparison-Website
-==========================
+
 
 ##A website that allows users to search for Martial Arts products such as Jiu Jitsu Gis, rash guards, etc. 
 
